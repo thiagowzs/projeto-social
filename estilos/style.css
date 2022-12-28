@@ -60,3 +60,7 @@ section#redes-sociais img:hover {
     box-shadow: 5px 5px 10px black;
     transition: transform .3s, border 0.3s;
 }
+
+section#redes-sociais img:active {
+    transform: scale(95%);
+}
